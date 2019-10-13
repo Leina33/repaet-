@@ -4,7 +4,7 @@
 ## Description
 This is a project 4 a resubmission project
 ## Setup/Installation Requirements
-* Clone or download and unzip the repository from github,https://github.com/Leina33/dela_studio.git
+* Clone or download and unzip the repository from github,https://github.com/Leina33/repaet-.git
 * You can use this command(git clone mylink)to clone the project to your machine if you have git.
 * cd to the project.
 * open the the application with the code editor of your choice
