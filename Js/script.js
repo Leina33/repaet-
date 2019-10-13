@@ -74,12 +74,12 @@ function Pizza(size, crust) {
     return noOfTopping * 1;
   }
   
-  //function check for an element in array
-  function checkPepperoni(topping) {
-    return topping === "pepperoni";
-  }
+  // //function check for an element in array
+  // function checkPepperoni(topping) {
+  //   return topping === "pepperoni";
+  // }
   
-  // *********UI Logic***********//
+  // UI MODULE
   $("document").ready(function() {
     //fetch size of pizza
     function getPizzaSize() {
