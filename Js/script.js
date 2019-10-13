@@ -36,7 +36,7 @@ function Pizza(size, crust) {
     stuffed: 200,
     gluten: 100
   };
-  //function calc prize according to size
+  //function that calculates  prize according to size
   function sizeCalcPrice(size) {
     if (size === "small") {
       return sizePrice.small * 1;
