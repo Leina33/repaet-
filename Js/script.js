@@ -15,13 +15,13 @@ function Pizza(size, crust) {
     {
       pepperoni: {
         small: 50,
-        medium: 100,
+        medium: 90,
         large: 150
       },
       veges: {
-        small: 25,
+        small: 30,
         medium: 50,
-        large: 75
+        large: 70,
       },
       bacon: {
         small: 50,
