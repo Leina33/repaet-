@@ -4,16 +4,11 @@ function Pizza(size, crust) {
     this.crust = crust;
     this.toppings = [];
   }
-  //location constructor
-  function Location(name, estate) {
-    this.name = name;
-    this.estate = estate;
-  }
   
   //price size
   var sizePrice = {
-    small: 600,
-    medium: 800,
+    small: 700,
+    medium: 900,
     large: 1200
   };
   var toppingPrice = [
