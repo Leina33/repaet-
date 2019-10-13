@@ -46,6 +46,7 @@ function Pizza(size, crust) {
       return sizePrice.large * 1;
     }
   }
+  
   //price according to crust
   function crustCalcPrice(crust) {
     if (crust === "crispy") {
