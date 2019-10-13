@@ -46,8 +46,8 @@ function Pizza(size, crust) {
       return sizePrice.large * 1;
     }
   }
-  
-  //price according to crust
+
+  //price for crust
   function crustCalcPrice(crust) {
     if (crust === "crispy") {
       return crustPrice.crispy * 1;
@@ -57,7 +57,7 @@ function Pizza(size, crust) {
       return crustPrice.gluten * 1;
     }
   }
-  // price according to topping
+  // price for toppings
   function toppingsCalcPrice(toppings) {
     var noOfTopping = 0;
     for (i = 0; i < toppings.length; i++) {
