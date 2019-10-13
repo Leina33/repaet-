@@ -45,7 +45,7 @@ i {
   font-size: 50px;
 }
 #tamu h1 {
-  color: #247a00;
+  color: saddlebrown;
 }
 
 #pizza img {
@@ -63,7 +63,7 @@ i {
 }
 footer {
   height: 50vh;
-  background-color: black;
+  background-color: grey;
   margin-top: 50px;
 }
 #brand {
